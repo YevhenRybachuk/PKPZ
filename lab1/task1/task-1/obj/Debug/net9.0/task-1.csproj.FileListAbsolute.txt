@@ -12,3 +12,4 @@ C:\study\PKPZ\lab1\task1\task-1\obj\Debug\net9.0\refint\task-1.dll
 C:\study\PKPZ\lab1\task1\task-1\obj\Debug\net9.0\task-1.pdb
 C:\study\PKPZ\lab1\task1\task-1\obj\Debug\net9.0\task-1.genruntimeconfig.cache
 C:\study\PKPZ\lab1\task1\task-1\obj\Debug\net9.0\ref\task-1.dll
+C:\study\PKPZ\lab1\task1\task-1\obj\Debug\net9.0\task-1.sourcelink.json
