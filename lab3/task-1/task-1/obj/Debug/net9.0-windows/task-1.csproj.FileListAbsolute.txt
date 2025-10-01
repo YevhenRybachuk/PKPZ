@@ -1,0 +1,15 @@
+C:\study\PKPZ\lab3\task-1\task-1\bin\Debug\net9.0-windows\task-1.exe
+C:\study\PKPZ\lab3\task-1\task-1\bin\Debug\net9.0-windows\task-1.deps.json
+C:\study\PKPZ\lab3\task-1\task-1\bin\Debug\net9.0-windows\task-1.runtimeconfig.json
+C:\study\PKPZ\lab3\task-1\task-1\bin\Debug\net9.0-windows\task-1.dll
+C:\study\PKPZ\lab3\task-1\task-1\bin\Debug\net9.0-windows\task-1.pdb
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\task-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\task-1.AssemblyInfoInputs.cache
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\task-1.AssemblyInfo.cs
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\task-1.csproj.CoreCompileInputs.cache
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\task-1.sourcelink.json
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\task-1.dll
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\refint\task-1.dll
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\task-1.pdb
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\task-1.genruntimeconfig.cache
+C:\study\PKPZ\lab3\task-1\task-1\obj\Debug\net9.0-windows\ref\task-1.dll
