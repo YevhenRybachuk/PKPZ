@@ -8,28 +8,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d86740a-16da-4e0e-a037-a8b0d3fde7dd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/bin/Debug/net9.0/task-2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/bin/Debug/net9.0/task-2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/bin/Debug/net9.0/task-2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/bin/Debug/net9.0/task-2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/bin/Debug/net9.0/task-2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/bin/Debug/net9.0/task-2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/ref/task-2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/ref/task-2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/refint/task-2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/refint/task-2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-2/obj/Debug/net9.0/task-2.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/bin/Debug/net9.0/task-4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/bin/Debug/net9.0/task-4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/bin/Debug/net9.0/task-4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/bin/Debug/net9.0/task-4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/bin/Debug/net9.0/task-4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/bin/Debug/net9.0/task-4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/ref/task-4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/ref/task-4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/refint/task-4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/refint/task-4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task-4/obj/Debug/net9.0/task-4.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.task-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.task-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/ref/task-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/ref/task-1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/refint/task-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/refint/task-1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/ref/task-3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/ref/task-3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/refint/task-3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/refint/task-3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/obj/Debug/net9.0-windows/task-3.sourcelink.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,30 +45,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="33TFhJtL7xG1tpZlCH9840nByar" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.task-1.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.task-1.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="task-1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -99,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759333274612</updated>
       <workItem from="1759333275893" duration="766000" />
+      <workItem from="1759334872088" duration="65000" />
     </task>
     <servers />
   </component>

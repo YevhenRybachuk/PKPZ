@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace LabCountAtSymbol
+namespace task_1
 {
     static class Program
     {
@@ -77,3 +77,4 @@ namespace LabCountAtSymbol
         }
     }
 }
+

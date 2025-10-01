@@ -4,7 +4,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
-namespace LabRemoveDuplicateLetters_English
+namespace task_3
 {
     static class Program
     {
@@ -25,7 +25,7 @@ namespace LabRemoveDuplicateLetters_English
 
         public MainForm()
         {
-            Text = "Remove duplicate letters (English only)";
+            Text = "Remove duplicate letters";
             Width = 600;
             Height = 400;
             StartPosition = FormStartPosition.CenterScreen;
