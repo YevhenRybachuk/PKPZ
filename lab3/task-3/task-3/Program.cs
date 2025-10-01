@@ -75,8 +75,7 @@ namespace LabRemoveDuplicateLetters_English
         private void ProcessButton_Click(object sender, EventArgs e)
         {
             string input = inputTextBox.Text;
-
-            // працюємо тільки з англійськими словами
+            
             string result = Regex.Replace(input, @"[A-Za-z]+", match =>
             {
                 string word = match.Value;
