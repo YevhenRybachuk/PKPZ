@@ -14,7 +14,6 @@ def find_math_symbols():
 
     count_label.config(text=f"Кількість знайдених символів: {len(matches)}")
 
-
 def remove_symbol():
     symbol = symbol_entry.get()
     if not symbol:

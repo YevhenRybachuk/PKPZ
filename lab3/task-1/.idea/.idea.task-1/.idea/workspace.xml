@@ -9,7 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d86740a-16da-4e0e-a037-a8b0d3fde7dd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.task-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.task-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/bin/Debug/net9.0-windows/task-1.pdb" afterDir="false" />
@@ -21,7 +20,6 @@
       <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/obj/Debug/net9.0-windows/task-1.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task-3/task-3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../task-3/task-3/bin/Debug/net9.0-windows/task-3.pdb" afterDir="false" />
@@ -103,6 +101,8 @@
       <updated>1759333274612</updated>
       <workItem from="1759333275893" duration="766000" />
       <workItem from="1759334872088" duration="65000" />
+      <workItem from="1759340483390" duration="755000" />
+      <workItem from="1759398891212" duration="2319000" />
     </task>
     <servers />
   </component>
