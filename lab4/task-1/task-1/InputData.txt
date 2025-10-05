@@ -1,0 +1,7 @@
+Ivanenko;Petro;Oleksandrovych;Male;Ukrainian;1950;5;12;+380501234567;01001;Ukraine;Kyiv region;Obukhiv district;Kyiv;Shevchenka;12;45
+Kovalchuk;Olena;Ivanivna;Female;Ukrainian;1955;3;8;+380671112233;02090;Ukraine;Kyiv region;Bila Tserkva district;Bila Tserkva;Lesi Ukrainky;8;12
+Melnyk;Stepan;Hryhorovych;Male;Ukrainian;1962;11;25;+380501009988;79000;Ukraine;Lviv region;Lviv district;Lviv;Franko;25;5
+Shevchenko;Iryna;Petriivna;Female;Ukrainian;1967;1;14;+380661234567;65000;Ukraine;Odesa region;Odesa district;Odesa;Deribasivska;10;22
+Pavlenko;Andriy;Mykolaiovych;Male;Ukrainian;1958;9;30;+380931234567;58000;Ukraine;Chernivtsi region;Chernivtsi district;Chernivtsi;Holovna;77;14
+Tkachenko;Halyna;Vasylivna;Female;Ukrainian;1960;2;29;+380991234567;49000;Ukraine;Dnipro region;Dnipro district;Dnipro;Yavornytskoho;13;7
+Bondarenko;Oksana;Serhiivna;Female;Ukrainian;1971;10;3;+380961234567;36000;Ukraine;Poltava region;Poltava district;Poltava;Soborna;9;4
