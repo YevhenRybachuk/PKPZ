@@ -1,0 +1,8 @@
+Name: Земля
+Mass: 10000 kg
+Radius: 20000 km
+Distance from Sun: 2000000 million km
+Moons: 2
+Has Rings: False
+Atmosphere: none
+Density: 0,00
